@@ -1,7 +1,3 @@
-### Oi 👋
-
-
-- 🌱 Estudando HTML, CSS, JavaScript
 
 
 <div>
